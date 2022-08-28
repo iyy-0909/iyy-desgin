@@ -1,3 +1,3 @@
 # 忽略目录
-plugins
 node_modules
+dist
