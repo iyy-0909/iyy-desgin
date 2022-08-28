@@ -1,2 +1,12 @@
-# iyy-desgin
-custom-components
+.DS_Store
+node_modules/
+# dist/
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
